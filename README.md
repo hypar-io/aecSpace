@@ -1,6 +1,7 @@
 # aecSpace 0.71 | 2018.07.31
-WARNING: WORK IN PROGRESS. INCOMPLETE AND UNTESTED CODE.
 Python classes useful for creating and editing volumes indicating building spaces and other simple AEC objects.
+
+WARNING: VERSION 0.71 IS WORK IN PROGRESS. INCOMPLETE AND UNTESTED CODE.
 
 # aecSpace 0.71 Version Notes
 
