@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: aecSpace
+Version: 0.7.1
+Summary: Python classes useful for creating and editing volumes indicating building spaces and other objects.
+Home-page: https://github.com/BlackArtsConsulting/aecSpace
+Author: Anthony Hauck | Hypar
+Author-email: anthony@hypar.io
+License: UNKNOWN
+Description: README.MD
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
