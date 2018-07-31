@@ -1,5 +1,12 @@
-# aecSpace 0.7 | 2018.06.22
-Python classes for creating and editing volumes indicating building spaces and other simple AEC objects.
+# aecSpace 0.71 | 2018.07.31
+WARNING: WORK IN PROGRESS. INCOMPLETE AND UNTESTED CODE.
+Python classes useful for creating and editing volumes indicating building spaces and other simple AEC objects.
+
+# aecSpace 0.71 Version Notes
+
+* Moved to a new Hypar Github repository.
+* Added pip install: pip install aecSpace.
+* Added initial aecFloor and aecCorridor objects.
 
 # 0.7 Version Notes
 
