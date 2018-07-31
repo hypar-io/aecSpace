@@ -1,5 +1,5 @@
 # aecSpace 0.7 | 2018.06.22
-Python classes useful for creating and editing volumes indicating building spaces and other simple AEC objects.
+Python classes for creating and editing volumes indicating building spaces and other simple AEC objects.
 
 # 0.7 Version Notes
 
